@@ -1,0 +1,21 @@
+{
+  "name": "08-ifcjswebwiv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.1.4"
+  },
+  "dependencies": {
+    "web-ifc-viewer": "^1.0.218"
+  }
+}
