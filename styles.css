@@ -19,5 +19,7 @@ html, body {
 
 #grunerLogo {
     position: absolute;
-    float: left;
+    top: 10px;
+    right: 10px;
+    float: right;
 }
