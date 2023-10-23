@@ -27,4 +27,4 @@ function getCenterPoint(mesh) {
     mesh.localToWorld( center );
     return center;
   }
-loadIfc('./Corridor_solids.ifc');
+loadIfc('./modelsRef/corridor_solids.ifc');
